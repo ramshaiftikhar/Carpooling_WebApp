@@ -1,0 +1,11 @@
+Key: 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
+
+
+Encrypted Key:
+
+U0cuSVY2ckl0NW9UeHlpRm9kQTh2dVRjdy5seURlTmw4SHZGcFBkTm5EQVFrWGdZ
+aVRYWXJLUzBJdlJ6cjNMXzZXRHlN
+
+
+username: anVuYWlkX2toYWxpZA==
+password: aGkxMjM0NTY3OA==
